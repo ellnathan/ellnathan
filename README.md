@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings! 👋
 ____________________
 
 I created this Github to document my journey as a self-taught analyst in the world of data analytics, and to showcase my work and use it as a reference guide.
