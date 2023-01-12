@@ -13,6 +13,6 @@ I created this Github to document my journey as a self-taught analyst in the wor
 
 **Other Interests:** Aviation, Language learning, Stoicism philiosphy, Brazilian jiu-jitsu and Meditation
 
-**Fun Fact:** ⚡ My first SQL query was not ```SELECT * FROM table_name ```😂
+**Fun Fact:** ⚡ I've never written a ```RIGHT JOIN``` query, I've always defaulted to ```LEFT JOIN ```😂
 
 
