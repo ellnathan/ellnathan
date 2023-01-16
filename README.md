@@ -9,9 +9,9 @@ I created this Github to document my journey as a self-taught analyst in the wor
 
 **Career:** 📊 Worked in the aviation industry before transitioning to a career in data quality analytics
 
-**Interests:** 💻 SQL and Python (still learning the latter)
+**Interests:** 💻 SQL and Python 
 
-**Other Interests:** Aviation, Language learning, Stoicism philiosphy, Brazilian jiu-jitsu and Meditation
+**Other Interests:** Aviation, Language learning, Stoicism philiosphy, Brazilian jiu-jitsu, Calisthenics and Meditation
 
 **Fun Fact:** ⚡ I've never written a ```RIGHT JOIN``` query, I've always defaulted to ```LEFT JOIN ```😂
 
