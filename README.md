@@ -5,7 +5,7 @@ I created this Github to document my journey as a self-taught analyst in the wor
 
 ### About Me
 
-**Degree:** ✈️ Graduated in Aerospace Technology with Pilot Stuides
+**Degree:** ✈️ Graduated in Aerospace Technology with Pilot Studies
 
 **Career:** 📊 Worked in the aviation industry before transitioning to a career in data quality analytics
 
