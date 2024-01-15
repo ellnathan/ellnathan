@@ -11,7 +11,7 @@ I created this Github to document my journey as a self-taught analyst in the wor
 
 **Interests:** 💻 SQL and Python 
 
-**Other Interests:** Aviation, Language learning, Stoicism philiosphy, Brazilian jiu-jitsu, Calisthenics and Meditation
+**Other Interests:** Aviation, Language learning, Stoicism philiosphy, Calisthenics and Meditation
 
 **Fun Fact:** ⚡ I've never written a ```RIGHT JOIN``` query, I've always defaulted to ```LEFT JOIN ```😂
 
